@@ -5,6 +5,8 @@ public class Democlass {
 	@Test
 	public void postjira() {
 		System.out.println("JIRA");
+		System.out.println("JIRA NEXT");
+		System.out.println("JIRA UPCOMING");
 
 		
 	}
