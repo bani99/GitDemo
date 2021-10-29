@@ -12,6 +12,10 @@ public class Democlass {
 	}
 	@Test
 	public void tweetme() {
-		System.out.println("TWITTER");
+		System.out.println("twitter");
+		System.out.println("insta");
+		System.out.println("facebook");
+		System.out.println("snapcat");
+		
 	}
 }
